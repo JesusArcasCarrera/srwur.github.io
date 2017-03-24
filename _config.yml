@@ -1,0 +1,38 @@
+# Site settings
+title: "SrWur"
+email: jesusarcascarrera@gmail.com
+description: ""
+baseurl: ""
+url: "srwur.github.io"
+title_description: "Coding..."
+title_image: ""
+google_analytics: ""
+disqus_account: jesusarcas
+github_repository: https://github.com/jacobtomlinson/carte-noire
+addthis_id:
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username:
+github_username:
+instagram_username:
+reddit_username:
+linkedin_link:
+google_plus_link:
+stackoverflow_link:
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: ""
+footer_right: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
